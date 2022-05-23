@@ -5,7 +5,6 @@ from mazo import *
 from solitario_thumbandpouch import *
 from solitario_ejemplo import *
 from solitariocatorce import *
-import carta
 import main
 from io import StringIO
 
