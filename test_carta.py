@@ -3,7 +3,6 @@ import pytest
 from main import *
 from carta import *
 from mazo import *
-import carta
 class TestCarta:
     def test_initialize_cart_object(self):
         valor = 5
