@@ -375,11 +375,7 @@ def test_mazo_crearMazo():
 def test_mazo_crearMazo2():
     crear_mazo(1,1)
     assert 1
-
-def test_mazo_crearMazo3():
-    crear_mazo(1,2)
-    assert 1
-    
+  
 def test_mazo_mazoIndividual():
     mazo = PilaCartas()
     mazo_individual(mazo, 3)
